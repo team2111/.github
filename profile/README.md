@@ -15,6 +15,5 @@
 [![CSDN mjh](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/visual_eagle?type=blog)
 [![CSDN jun](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_44868057)
 [![CSDN scc](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
-[![Gmail Badge](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3120154500@qq.com)](mailto:3120154500@qq.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=team2111.readme)
