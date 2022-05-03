@@ -12,8 +12,8 @@
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=team2111&color=green)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/team2111)
-[![CSDN mjh](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/visual_eagle?type=blog)
-[![CSDN jun](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_44868057)
-[![CSDN scc](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
+[![CSDNmjh](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/visual_eagle?type=blog)
+[![CSDNjun](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_44868057)
+[![CSDNscc](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=team2111.readme)
