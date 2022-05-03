@@ -1,8 +1,6 @@
 # Hi,we are team2111! 👋
 2111实验室
 
-<img src="https://github-readme-stats.vercel.app/api?username=team2111&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-
 - 🔭 We are currently working on **TianJin**.
 - 🌱 I’m currently learning **OpenCV**.
 - 💬 Ask me about C++ or Python technology.
