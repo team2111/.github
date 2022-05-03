@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3120154500@qq.com)](mailto:3120154500@qq.com)
 
 ## Languages
-<a href="https://github.com/duktig666">
+<a href="https://github.com/team2111">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=team2111&theme=vue" />
 </a>
 
