@@ -19,9 +19,6 @@
 [![CSDN scc](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
 [![Gmail Badge](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3120154500@qq.com)](mailto:3120154500@qq.com)
 
-## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=team2111&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
 ## Languages
 <a href="https://github.com/duktig666">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
