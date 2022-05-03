@@ -21,7 +21,7 @@
 
 ## Languages
 <a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=team2111&theme=vue" />
 </a>
 
 
