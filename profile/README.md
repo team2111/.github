@@ -10,6 +10,8 @@
   - "Hardcore fiction reader".
   - Watch science and technology weekly.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=team2111)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=team2111&color=green)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/team2111)
