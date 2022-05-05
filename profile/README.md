@@ -51,6 +51,7 @@
 ![dianche](https://img.shields.io/static/v1?label=dianche&message=%E7%94%B5%E8%BD%A6%E9%A1%B9%E7%9B%AE&color=blueviolet)
 ![sqluse](https://img.shields.io/static/v1?label=sqluse&message=%E7%94%B5%E8%BD%A6%E9%A1%B9%E7%9B%AE%E6%95%B0%E6%8D%AE%E5%BA%93%E6%B5%8B%E8%AF%95%E9%83%A8%E5%88%86&color=blueviolet)
 ![speech](https://img.shields.io/static/v1?label=speech__recognition&message=%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB&color=9cf)
+![](https://img.shields.io/static/v1?label=web__bishe&message=%E5%AD%A9%E5%A5%B4%E7%8E%A9%E4%BC%B4&color=9cf)
 ![camrea-label](https://img.shields.io/badge/camrea--label-%E5%9C%86%E5%BD%A2label-brightgreen)
 ![healthy](https://img.shields.io/badge/healthy__code-%E5%81%A5%E5%BA%B7%E7%A0%81%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F-brightgreen)
 ![sql_demo](https://img.shields.io/badge/Qt__sql__demo-Qt%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84demo-yellowgreen)
