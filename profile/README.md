@@ -18,3 +18,8 @@
 [![CSDNscc](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=team2111.readme)
+
+## Language
+
+### C++
+### Python
