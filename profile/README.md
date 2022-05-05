@@ -25,3 +25,8 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-%20-brightgreen)](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 ### Python
 [![Python](https://img.shields.io/badge/Python-%20-brightgreen)](https://docs.python.org/zh-cn/3/tutorial/index.html)
+
+## How to fix the problem
+[![Baidu](https://img.shields.io/badge/Baidu-%20-blue)](https://www.baidu.com/)
+
+[![](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)](https://www.baidu.com/)
