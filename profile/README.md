@@ -59,3 +59,4 @@
 ![](https://img.shields.io/static/v1?label=Sport__admin&message=%E5%9F%BA%E4%BA%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9A%84%E4%BD%93%E6%B5%8B%E6%B5%8B%E8%AF%84%E6%89%93%E5%88%86%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E7%AB%AF&color=blueviolet)
 ![](https://img.shields.io/badge/smart__classroom__user-%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E7%94%A8%E6%88%B7%E7%AB%AF-blue)
 ![](https://img.shields.io/badge/smart__classroom__admin-%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E7%AE%A1%E7%90%86%E7%AB%AF-blue)
+![python-two-eyes](https://img.shields.io/badge/binocular--camera--Python-%E5%8F%8C%E7%9B%AE%E6%B5%8B%E8%B7%9D-green)
