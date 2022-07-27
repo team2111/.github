@@ -60,3 +60,5 @@
 ![](https://img.shields.io/badge/smart__classroom__user-%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E7%94%A8%E6%88%B7%E7%AB%AF-blue)
 ![](https://img.shields.io/badge/smart__classroom__admin-%E6%99%BA%E6%85%A7%E6%95%99%E5%AE%A4%E7%AE%A1%E7%90%86%E7%AB%AF-blue)
 ![python-two-eyes](https://img.shields.io/badge/binocular--camera--Python-%E5%8F%8C%E7%9B%AE%E6%B5%8B%E8%B7%9D-green)
+![张艺潇后端](https://img.shields.io/badge/QT----msql-%E9%A4%90%E7%9B%98%E6%A3%80%E6%B5%8B%E5%90%8E%E7%AB%AF-yellow)
+![张艺潇小程序](https://img.shields.io/badge/vx--applet-%E5%BE%AE%E4%BF%A1%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BBdemo-orange)
