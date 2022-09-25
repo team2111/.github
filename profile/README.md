@@ -14,9 +14,11 @@
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=team2111&color=green)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/team2111)
 [![CSDNmjh](https://img.shields.io/badge/MJH-CSDN-red)](https://blog.csdn.net/visual_eagle?type=blog)
-![](https://stats.justsong.cn/api/csdn?id=visual_eagle&theme=dark)
 [![CSDNjun](https://img.shields.io/badge/JUN-CSDN-red)](https://blog.csdn.net/weixin_44868057)
-[![CSDNscc](https://img.shields.io/badge/SCC-CSDN-red)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)
+[![CSDNscc](https://img.shields.io/badge/SCC-CSDN-red)](https://blog.csdn.net/weixin_50153843?spm=1000.2115.3001.5343)、
+![](https://stats.justsong.cn/api/csdn?id=visual_eagle&theme=dark)
+![](https://stats.justsong.cn/api/csdn?id=jun_军&theme=dark)
+![](https://stats.justsong.cn/api/csdn?id=Loading_create&theme=dark)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=team2111.readme)
 
