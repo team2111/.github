@@ -26,6 +26,10 @@
 
 ![](https://stats.justsong.cn/api/csdn?id=weixin_50153843&theme=dark)
 
+[![CSDNljy](https://img.shields.io/badge/LJY-CSDN-red)](https://blog.csdn.net/weixin_52051554)
+
+![](https://stats.justsong.cn/api/csdn?id=weixin_52051554&theme=dark)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=team2111.readme)
 
 ## Language
